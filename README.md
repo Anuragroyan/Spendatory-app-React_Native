@@ -1,0 +1,1 @@
+# Spendatory-app-React_Native
